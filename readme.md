@@ -9,7 +9,7 @@ The system receives a query image and returns a specified amount of the most sim
 
 * *descriptor.h, descriptor.cpp*
 
-2. **Index** a collection of images, using descriptor. Which mein a file, for eans that every image in the collection will be converted into a vector and saved in memory (in a file, for example).
+2. **Index** a collection of images, using descriptor. Which means that every image in the collection will be converted into a vector and saved in memory (in a file, for example).
 
 * *indexer.h, indexer.cpp*
 
